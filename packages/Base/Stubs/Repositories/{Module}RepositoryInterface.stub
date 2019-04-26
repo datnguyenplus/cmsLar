@@ -1,0 +1,9 @@
+<?php 
+
+namespace TTSoft\{Module}\Repositories;
+
+interface {Module}RepositoryInterface
+{
+    
+}
+

@@ -1,0 +1,9 @@
+{
+    "name": "{Module}",
+    "provider": "TTSoft\\{Module}\\Providers\\{Module}ServiceProvider",
+    "module": "TTSoft\\{Module}",
+    "author": "Dat Nguyen",
+    "url": "http://datnguyen.asia",
+    "version": "1.0",
+    "description": "{Module}"
+}

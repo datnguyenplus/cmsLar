@@ -1,0 +1,9 @@
+{
+    "name": "Post",
+    "provider": "TTSoft\\Post\\Providers\\PostServiceProvider",
+    "module": "TTSoft\\Post",
+    "author": "Dat Nguyen",
+    "url": "http://datnguyen.asia",
+    "version": "1.0",
+    "description": "Post"
+}

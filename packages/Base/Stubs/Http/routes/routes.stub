@@ -1,0 +1,7 @@
+<?php
+Route::middleware(['admin'])->prefix(config('base.cms_path'))->group(function () 
+{
+    Route::prefix('{module}')->group(function () {
+    	Route::get('/','{Module}Controller@index')->name('admin.{module}.get.index');
+    });
+});

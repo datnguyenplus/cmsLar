@@ -1,0 +1,15 @@
+<?php
+
+namespace TTSoft\{Module}\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+use App\Http\Controllers\Controller;
+use TTSoft\{Module}\Repositories\PostRepositoryInterface;
+class {Module}Controller extends Controller
+{
+	public function index(){
+		
+	}
+
+}
