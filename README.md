@@ -17,7 +17,7 @@ Command create new a controller in module.
    
 Command create new a model in module.
 	
-    php artisan module:make-model {name_controller} {Module}
+    php artisan module:make-model {name_model} {Module}
   
  Command create new a migration in module.
 	
