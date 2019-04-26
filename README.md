@@ -4,7 +4,7 @@ This is CMS has been created Laravel 5.8.
 # About CMS
 
 CMS be build follow Module.
-All Module has been will in the folder packages directory.
+All modules will be in the package directory.
 
 ## Functions
 
